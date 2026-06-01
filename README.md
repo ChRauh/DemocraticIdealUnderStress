@@ -26,7 +26,7 @@ The repository is organised as an RStudio project - start from `DemocraticIdealU
     
     
 ### Scripts
-- **`0-CountrySample.R`** locates our country sample in the broader universe of countries regarding democratic maturity, cultural orientations and COVID-19 restrictions (as reported in **Section 3 of the main text** and **Appendix A.2**)    
+- **`0_CountrySample.R`** locates our country sample in the broader universe of countries regarding democratic maturity, cultural orientations and COVID-19 restrictions (as reported in **Section 3 of the main text** and **Appendix A.2**)    
 - **`1_PrepareBackgroundData.R`** scrutinizes, cleans and labels the raw survey data provided by IPSOS focusing on the questionnaire items (experimental data are prepared in the respective scripts for study 1 & 2)    
 - **`2_Study1.R`** replicates all analyses regarding the conjoint experiment on democratic rights restrictions, generating the outputs reported in **Section 4**, partially **Section 6**, and **appendix A.4** of the main text.    
 - **`3_Study2.R`** replicates all analyses regarding the best-worst scaling / framing experiment on prefernces for democratic procedures, generating the outputs reported in in **Section 5**, partially **Section 6**, and **appendix A.5** of the main text. 
@@ -34,12 +34,12 @@ The repository is organised as an RStudio project - start from `DemocraticIdealU
      
 ## Preregistration
 
-The analyses conducted here have been publicly pre-registred via OSF prior to data access (DOI: [10.17605/OSF.IO/43FGX](http://doi.org/10.17605/OSF.IO/43FGX)). Deviations from the pre-registration are discussed throughout the main text and summarized in appendix A.1.
+The analyses conducted here have been publicly pre-registered via OSF prior to data access (DOI: [10.17605/OSF.IO/43FGX](http://doi.org/10.17605/OSF.IO/43FGX)). Deviations from the pre-registration are discussed throughout the main text and summarized in appendix A.1.
     
     
 ## Contributors    
 
-- [Jan-Paul Heisig](https://www.wzb.eu/en/persons/jan-paul-heisig)
+- [Jan Paul Heisig](https://www.wzb.eu/en/persons/jan-paul-heisig)
 - [Heiko Giebler](https://www.scripts-berlin.eu/people/giebler/index.html)
 - [Christian Rauh](https://christian-rauh.eu/)    
 
