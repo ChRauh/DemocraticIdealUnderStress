@@ -1,4 +1,6 @@
 # *Replication archive:* Democratic Ideal Under Stress
+
+[![DOI](https://zenodo.org/badge/1251612709.svg)](https://doi.org/10.5281/zenodo.20509197)
     
 This repository provides all data and scripts needed for replicating the results reported in:    
     
